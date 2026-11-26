@@ -1,0 +1,1 @@
+{ "name": "topicos", "version": "0.1.0", "description": "Painel ao lado da conversa com os tópicos de um arquivo .md; clique num tópico para ler o trecho.", "license": "MIT", "types": "./types/index.d.ts" }

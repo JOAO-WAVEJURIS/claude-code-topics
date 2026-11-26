@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-topics",
+  "owner": { "name": "JOAO-WAVEJURIS" },
+  "plugins": [{ "name": "topicos", "source": "./" }]
+}
